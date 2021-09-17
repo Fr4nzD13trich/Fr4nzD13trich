@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr4nzD13trich
-- 👀 I’m interested in Linux, Android Custom Roms
+- 👀 I’m interested in Linux & Android 
 - 🌱 I’m always learning a lot
 - 💞️ I’m looking to collaborate on whatever I find interesting
 
