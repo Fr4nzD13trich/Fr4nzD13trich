@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr4nzD13trich
-- 👀 I’m interested in Linux & Android as well as html/css/php and python
+- 👀 I’m interested in Linux, Android & 3D Printing as well as html/css/php and python
 - 🌱 I’m always learning a lot
 - 💞️ I’m looking to collaborate on whatever I find interesting
 
